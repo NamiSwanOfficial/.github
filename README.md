@@ -18,15 +18,24 @@ NamiSwan is a powerful and versatile Discord bot designed to improve your server
 # Commands
 - Fun Commands : 
 Ask who your crush is, roll the dice, or ask a question,
+
 <br>
+
 - Informations Commands : 
 Access a variety of utility commands including weather, user info, and server info,
+
 <br>
 
 - Social Commands : 
 Engage your community with fun commands such as memes, jokes, and trivia,
+
+<br>
+
 - Games Commands : 
 Get player insights and stats for specific video games,
+
+<br>
+
 - Credits Commands : 
 Visit the credits, whether it's the site, the Support Discord server or otherwise.
 
