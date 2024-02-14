@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-  <img src="./logo.png" alt="Logo" width="80" height="80">
+  <img src="./logo.jpg" alt="Logo" width="80" height="80">
   <h3 align="center">NamiSwan</h3>
   <p align="center">You are currently reading the documentation, happy reading :)</p>
 </div>
