@@ -52,7 +52,7 @@ Once NamiSwan is installed on your server, you can immediately start using its f
 <br>
 
 # Support and Feedback
-If you encounter any issues or have suggestions for improving NamiSwan, please feel free to contact our support team at contact@tsukizo.com or join the support Discord server : https://discord.com/invite/8STEdDPUK5
+If you encounter any issues or have suggestions for improving NamiSwan, please feel free to contact our support team at contact@tsukizo.fr or join the support Discord server : https://discord.com/invite/8STEdDPUK5
 
 #### We are committed to continuously improving NamiSwan based on user feedback, so your input is highly valued.
 
